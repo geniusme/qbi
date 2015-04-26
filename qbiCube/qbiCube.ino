@@ -8,8 +8,8 @@
 #include "M2XStreamClient.h"
 
 // WiFi
-char ssid[] = "hodor929"; 
-char pass[] = "hodorhodor";
+char ssid[] = "hue dev 121"; 
+char pass[] = "philipshue";
 
 // Accelerometer
 Acc_Adxl345 acc;
